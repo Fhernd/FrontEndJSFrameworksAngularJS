@@ -68,6 +68,13 @@
     <Content Include="app\menu.html" />
     <Content Include="app\styles\bootstrap-social.css" />
     <Content Include="app\styles\mystyles.css" />
+    <Content Include="app\W1\W1S4C4-menu.html" />
+    <Content Include="app\W1\W1S3C5-menu.html" />
+    <Content Include="app\W1\W1S2C5-menu.html" />
+    <Content Include="app\W1\W1S5C4A1T3-dishdetail.html" />
+    <Content Include="app\W1\W1S5C4A1T2-dishdetail.html" />
+    <Content Include="app\W1\W1S5C4A1T1-dishdetail.html" />
+    <Content Include="app\W1\W1S5C4A1T0-dishdetail.html" />
     <Content Include="bower_components\angular\angular-csp.css" />
     <Content Include="bower_components\angular\angular.js" />
     <Content Include="bower_components\angular\angular.min.js" />
