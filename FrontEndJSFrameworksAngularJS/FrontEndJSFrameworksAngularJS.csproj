@@ -56,6 +56,7 @@
     <Reference Include="System.Configuration" />
     <Reference Include="System.Web.Services" />
     <Reference Include="System.EnterpriseServices" />-->
+    <Folder Include="app\W2\styles\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="app\images\alberto.png" />
@@ -75,6 +76,19 @@
     <Content Include="app\W1\W1S5C4A1T2-dishdetail.html" />
     <Content Include="app\W1\W1S5C4A1T1-dishdetail.html" />
     <Content Include="app\W1\W1S5C4A1T0-dishdetail.html" />
+    <Content Include="app\W2\scripts\W2S3C4-app.js" />
+    <Content Include="app\W2\scripts\W2S2C4-app.js" />
+    <Content Include="app\W2\scripts\app.js" />
+    <Content Include="app\W2\scripts\W2S4C2PGA2T3-app.js" />
+    <Content Include="app\W2\scripts\W2S4C2PGA2T2-app.js" />
+    <Content Include="app\W2\scripts\W2S4C2PGA2T1-app.js" />
+    <Content Include="app\W2\W2S2C4-menu.html" />
+    <Content Include="app\W2\W2S1C5-menu.html" />
+    <Content Include="app\W2\W2S3C4_contactus.html" />
+    <Content Include="app\W2\W2S4C2PGA2T3-dishdetail.html" />
+    <Content Include="app\W2\W2S4C2PGA2T2-dishdetail.html" />
+    <Content Include="app\W2\W2S4C2PGA2T1-dishdetail.html" />
+    <Content Include="app\W2\W2S4C2PGA2T0-dishdetail.html" />
     <Content Include="bower_components\angular\angular-csp.css" />
     <Content Include="bower_components\angular\angular.js" />
     <Content Include="bower_components\angular\angular.min.js" />
@@ -222,13 +236,14 @@
     <Content Include="bower_components\jquery\src\var\support.js" />
     <Content Include="bower_components\jquery\src\var\toString.js" />
     <Content Include="bower_components\jquery\src\wrap.js" />
+    <Content Include="Gruntfile.js" />
+    <Content Include="gulpfile.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="app\.DS_Store" />
     <Content Include="app\fonts\.DS_Store" />
     <Content Include="app\images\.DS_Store" />
     <Content Include="app\scripts\.DS_Store" />
@@ -387,11 +402,14 @@
     <Content Include="bower_components\jquery\external\sizzle\dist\sizzle.min.map" />
     <Content Include="bower_components\jquery\README.md" />
     <Content Include="bower_components\jquery\src\.eslintrc.json" />
+    <Content Include=".jshintrc" />
     <None Include="css\default.css" />
     <None Include="lib\default.js" />
     <None Include="index.html" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="package[old].json" />
+    <Content Include="package.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
