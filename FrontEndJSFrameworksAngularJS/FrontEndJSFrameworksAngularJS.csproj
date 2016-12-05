@@ -89,6 +89,56 @@
     <Content Include="app\W2\W2S4C2PGA2T2-dishdetail.html" />
     <Content Include="app\W2\W2S4C2PGA2T1-dishdetail.html" />
     <Content Include="app\W2\W2S4C2PGA2T0-dishdetail.html" />
+    <Content Include="app\W3\scripts\W3S1C5-dishdetail.html" />
+    <Content Include="app\W3\scripts\W3S4C4Ex1-app.js" />
+    <Content Include="app\W3\scripts\W3S3C5Ex1-app.js" />
+    <Content Include="app\W3\scripts\W3S2C4Ex1-app.js" />
+    <Content Include="app\W3\scripts\W3S4C4Ex1-controllers.js" />
+    <Content Include="app\W3\scripts\W3S3C5Ex1-controllers.js" />
+    <Content Include="app\W3\scripts\W3S2C4Ex1-controllers.js" />
+    <Content Include="app\W3\scripts\W3S1C5-controllers.js" />
+    <Content Include="app\W3\scripts\W3S4C4Ex1-services.js" />
+    <Content Include="app\W3\scripts\W3S3C5Ex1-services.js" />
+    <Content Include="app\W3\scripts\W3S2C4Ex1-services.js" />
+    <Content Include="app\W3\scripts\W3S1C5-services.js" />
+    <Content Include="app\W3\scripts\W3S1C5-app.js" />
+    <Content Include="app\W3\views\W3S5C2PGA3-footer.html" />
+    <Content Include="app\W3\views\W3S4C4Ex1-footer.html" />
+    <Content Include="app\W3\views\W3S5C2PGA3-header.html" />
+    <Content Include="app\W3\views\W3S4C4Ex1-header.html" />
+    <Content Include="app\W3\views\W3S4C4Ex1-contactus.html" />
+    <Content Include="app\W3\views\W3S5C2PGA3-menu.html" />
+    <Content Include="app\W3\W3S3C5Ex1-contactus.html" />
+    <Content Include="app\W3\W3S2C4Ex1-contactus.html" />
+    <Content Include="app\W3\views\W3S4C4Ex1-dishdetail.html" />
+    <Content Include="app\W3\W3S3C5Ex1-dishdetail.html" />
+    <Content Include="app\W3\W3S5C2PGA3-index.html" />
+    <Content Include="app\W3\W3S4C4Ex1-index.html" />
+    <Content Include="app\W3\W3S3C5Ex1-index.html" />
+    <Content Include="app\W3\views\W3S4C4Ex1-menu.html" />
+    <Content Include="app\W3\W3S3C5Ex1-menu.html" />
+    <Content Include="app\W3\W3S2C4Ex1-menu.html" />
+    <Content Include="app\W3\W3S2C4Ex1-dishdetail.html" />
+    <Content Include="app\W3\W3S1C5-dishdetail.html" />
+    <Content Include="app\W3\W3S2C4Ex1-index.html" />
+    <Content Include="app\W3\views\W3S5C2PGA3-aboutus.html" />
+    <Content Include="app\W3\scripts\W3S5C2PGA3-app.js" />
+    <Content Include="app\W3\scripts\W3S5C2PGA3-controllers.js" />
+    <Content Include="app\W3\views\W3S5C2PGA3-home.html" />
+    <Content Include="app\W3\scripts\W3S5C2PGA3-services.js" />
+    <Content Include="bower_components\angular-ui-router\release\angular-ui-router.js" />
+    <Content Include="bower_components\angular-ui-router\release\angular-ui-router.min.js" />
+    <Content Include="bower_components\angular-ui-router\src\common.js" />
+    <Content Include="bower_components\angular-ui-router\src\resolve.js" />
+    <Content Include="bower_components\angular-ui-router\src\state.js" />
+    <Content Include="bower_components\angular-ui-router\src\stateDirectives.js" />
+    <Content Include="bower_components\angular-ui-router\src\stateFilters.js" />
+    <Content Include="bower_components\angular-ui-router\src\templateFactory.js" />
+    <Content Include="bower_components\angular-ui-router\src\urlMatcherFactory.js" />
+    <Content Include="bower_components\angular-ui-router\src\urlRouter.js" />
+    <Content Include="bower_components\angular-ui-router\src\view.js" />
+    <Content Include="bower_components\angular-ui-router\src\viewDirective.js" />
+    <Content Include="bower_components\angular-ui-router\src\viewScroll.js" />
     <Content Include="bower_components\angular\angular-csp.css" />
     <Content Include="bower_components\angular\angular.js" />
     <Content Include="bower_components\angular\angular.min.js" />
@@ -238,6 +288,17 @@
     <Content Include="bower_components\jquery\src\wrap.js" />
     <Content Include="Gruntfile.js" />
     <Content Include="gulpfile.js" />
+    <Content Include="scripts\angular-mocks.js" />
+    <Content Include="bower_components\angular-ui-router\.bower.json" />
+    <Content Include="bower_components\angular-ui-router\bower.json" />
+    <Content Include="bower_components\angular-ui-router\CHANGELOG.md" />
+    <Content Include="bower_components\angular-ui-router\CONTRIBUTING.md" />
+    <Content Include="bower_components\angular-ui-router\LICENSE" />
+    <Content Include="bower_components\angular-ui-router\README.md" />
+    <None Include="scripts\angular.intellisense.js" />
+    <Content Include="scripts\angular.js" />
+    <Content Include="scripts\angular.min.js" />
+    <None Include="scripts\_references.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -410,6 +471,8 @@
   <ItemGroup>
     <Content Include="package[old].json" />
     <Content Include="package.json" />
+    <Content Include="scripts\angular.min.js.map" />
+    <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
